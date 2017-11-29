@@ -2,4 +2,4 @@
 
 1 + 5;
 
-var one = "one" + "is the loneliest number";
+one = "one" + "is the loneliest number";
